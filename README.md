@@ -1,4 +1,4 @@
-![Screenshot (770)](https://github.com/Joyline-Rencita/Wood-Art-Website/assets/107092284/851b7ffe-4f49-4c6c-9f8c-fdffdba26b50)# Wood-Art-Website
+
 Link : https://joyline-rencita.github.io/Wood-Art-Website/
 
 ## screenshots
